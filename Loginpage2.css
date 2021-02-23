@@ -1,0 +1,108 @@
+.bradius {
+    border-radius: 5px;
+}
+
+.h300 {
+    height: 300px;
+    border: 1px solid;
+}
+
+.h600 {
+    height: 600px;
+}
+
+.bg3 {
+    background-color: #2196f36b;
+}
+
+.logo {
+    margin-left: 136px;
+    color: #2196f37a;
+}
+
+
+/* 
+.dnone {
+    display: none;
+} */
+
+.fsize5 {
+    font-size: 12px;
+}
+
+.fcwhite {
+    color: white;
+}
+
+.fcgray {
+    color: gray;
+}
+
+.fcblue {
+    color: #2196f3;
+}
+
+.div1 {
+    width: 300px;
+    overflow: hidden;
+}
+
+.div2 {
+    width: 300px;
+    position: relative;
+    top: 20px;
+    left: -23px;
+    transition: 2s;
+    background-color: lightskyblue;
+}
+
+.TextBox3 {
+    width: 230px;
+    height: 30px;
+    margin-top: 40px;
+    margin-left: 22px;
+    font-size: 12px;
+    border-bottom: 2px solid gray;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    background: none;
+}
+
+.CheckBox2 {
+    margin-left: 22px;
+}
+
+.Button2 {
+    width: 100px;
+    height: 30px;
+    border: 2px solid gray;
+    border-radius: 20px;
+    margin-top: 25px;
+    margin-left: 90px;
+    color: dodgerblue;
+}
+
+.label2 {
+    margin-top: 10px;
+    width: 190px;
+    height: 20px;
+    font-size: 12px;
+    border-bottom: 2px solid gray;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    background: none;
+}
+
+.Button1 {
+    width: 100px;
+    height: 30px;
+    border: 2px solid gray;
+    border-radius: 10px;
+    background: none;
+    margin-top: 15px;
+    margin-left: 90px;
+    border: none;
+    color: gray;
+}
